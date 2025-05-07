@@ -1,8 +1,8 @@
 # Sales-Analysis
 
-<img src="https://github.com/Joshua-987/Sales-Analysis/blob/main/Visuals/Dashboard.JPG" alt="Sales Dashboard" width="800"/>
+<img src="https://github.com/Joshua-K1234/Sales-Analysis/blob/main/Visuals/Dashboard.JPG" alt="Sales Dashboard" width="800"/>
 
-<img src="https://github.com/Joshua-987/Sales-Analysis/blob/main/Visuals/Dashboard%20Quantity.JPG" alt="Sales Dashboard" width="800"/>
+<img src="https://github.com/Joshua-K1234/Sales-Analysis/blob/main/Visuals/Dashboard%20Quantity.JPG" alt="Sales Dashboard" width="800"/>
 
 ### Project Goal
 Build a Power BI sales overview dashboard to track KPIs across the Central, West, South, and East regions, visualize year-over-year performance changes, and show how sales, quantity and profit vary proportionally across states.
